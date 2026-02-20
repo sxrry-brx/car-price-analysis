@@ -42,6 +42,8 @@ cd car-price-analysis
 pip install -r requirements.txt
 jupyter notebook car_price_analysis.ipynb
 ```
+##Пример визуализации
+<img width="1113" height="458" alt="Image" src="https://github.com/user-attachments/assets/52ed6bcb-46ab-4eff-805a-6d67bae5e205" />
 
 ## Про данные
 
