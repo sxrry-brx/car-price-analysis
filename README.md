@@ -61,7 +61,3 @@ jupyter notebook car_price_analysis.ipynb
 - matplotlib и seaborn для графиков
 - numpy для расчетов
 - jupyter для удобства
-
-## Контакты
-
-Если есть вопросы или предложения — пишите.
