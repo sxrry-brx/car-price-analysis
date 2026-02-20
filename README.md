@@ -37,7 +37,7 @@
 Если хочешь посмотреть сам:
 
 ```bash
-git clone https://github.com/your-username/car-price-analysis.git
+git clone https://github.com/sxrry-brx/car-price-analysis.git
 cd car-price-analysis
 pip install -r requirements.txt
 jupyter notebook car_price_analysis.ipynb
